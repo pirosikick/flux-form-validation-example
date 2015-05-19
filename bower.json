@@ -1,0 +1,19 @@
+{
+  "name": "hiden-no-tare.web+gulp",
+  "version": "0.0.0",
+  "authors": [
+    "Hiroyuki ANAI<pirosikick@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3",
+    "bootstrap": "~3.3.4"
+  }
+}
